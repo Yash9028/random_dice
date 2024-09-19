@@ -1,0 +1,1 @@
+wget https://img.icons8.com/windows/512/dice-one.png https://img.icons8.com/windows/512/dice-two.png https://img.icons8.com/windows/512/dice-three.png https://img.icons8.com/windows/512/dice-four.png https://img.icons8.com/windows/512/dice-five.png https://img.icons8.com/windows/512/dice-six.png
